@@ -1,0 +1,16 @@
+pandas
+numpy
+joblib
+ollama
+python-dotenv
+openai
+whisper
+fastapi[standard]
+uvicorn
+pydantic
+skit-learn
+json
+react
+react-markdown
+rehype-katex
+remark-math

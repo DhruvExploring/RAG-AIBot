@@ -1,0 +1,7 @@
+venv/
+audios/
+__pycache__/
+jsons/
+.env
+checking.py
+dev_side/
