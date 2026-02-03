@@ -2,13 +2,13 @@
 
 This is a RAG (retrieval augmented generation) based AI bot which can answer questions based on the popular youtube playlist of 3 Blue 1 Brown on probability. 
 
-## features
+## Features
 
 1) It can answer questions based on the popular youtube playlist of 3 Blue 1 Brown on probability. 
 2) The response generated is based on the context of the video and the timestamps of the video are also mentioned in the response.
 3) clean chatbot interface enables a smooth user experience.
 
-## techstack
+## Techstack
 
 1) React
 2) FastAPI
