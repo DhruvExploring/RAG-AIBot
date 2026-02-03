@@ -45,12 +45,12 @@ This is a RAG (retrieval augmented generation) based AI bot which can answer que
 5) The frontend server sends the response to the user.
 
 
-# Future scope
+## Future scope
 1) The model can be build upon all the videos of 3Blue1Brown.
 2) The time required to generate the response can be reduced by a more optimal method of embedding traversal.
 3) The model can be deployed on a cloud platform.
 4) The chat interface can be memory enabled and can remember the previous conversation.
 5) The model can be used again for other purposes with a better transcription model.
 
-# Author
+## Author
 **Dhruv Pandey**
